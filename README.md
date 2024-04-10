@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ererz
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML and Java Script and PHP
+- 🌱 I’m currently learning HTML, Java Script, PHP, Rust and Java
+- 
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 ererz/ererz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
