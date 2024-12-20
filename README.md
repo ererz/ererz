@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">I'm currently studying in IT and currently extending my knowledge in some programming languages.</h3>
+<h3 align="center">I'm currently studying in Computer Science at FH Aachen and currently extending my knowledge in some programming languages.</h3>
 
 - 🌱 I’m currently learning **Rust and Java**
 
